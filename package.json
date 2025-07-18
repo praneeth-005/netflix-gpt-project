@@ -1,0 +1,23 @@
+{
+  "name": "netflix-gpt",
+  "version": "1.0.0",
+  "description": "Building netflix with chatgpt feature",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "jest"
+  },
+  "author": "Praneeth",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "autoprefixer": "^10.4.21",
+    "parcel": "^2.15.4",
+    "postcss": "^8.5.6"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-router": "^7.7.0",
+    "react-router-dom": "^7.7.0"
+  }
+}
