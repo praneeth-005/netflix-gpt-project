@@ -2,6 +2,9 @@
 
 -Installed parcel bundler
 -Setup tailwindcss
+-Created Header
+-Created LogIn Form
+-Created Sign In and Sign Up form using toogle effect
 
 # Features:
 -LogIn/SignUp
